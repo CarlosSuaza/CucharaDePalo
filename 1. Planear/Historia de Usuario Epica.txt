@@ -1,0 +1,46 @@
+Historia de Usuario Epica
+
+Sistema de Informacion Transaccional
+
+1. Nombre del Proyecto: CucharaDePalo
+2. Proceso: Reserva de Menu
+3. Actores: Consumidor / Mesero
+4. Producto/Servicio: Comida
+5. Escenario Actual:
+6. Escenario Objetivo:
+7. Problematica:
+8. Solucion:
+
+
+Requerimiento:
+
+El restaurante la Cuchara de Palo requiere un sistema de informacion transaccional que le permita gestionar las reservas de pedidos del menu realizadas por parte de los consumidores.
+
+Problematica:
+
+Los reservas de pedidos se realizan de manera manual y se presentan errores de reservas duplicas, perdidas o canceladas, tiempo de espera en la atencion al cliente, adicionalmente no hay una globalidad en el alcance del proceso, tambien se necesita identificar la informacion del cliente para fidelizacion, masificacion de los productos ofrecidos, posicionar a la empresa como referente comercial a nivel nacional e internacional.
+
+Solucion:
+
+Sistema de Informacion Transaccional que permita gestionar las reservas en tiempo real desde una plataforma tipo web o movil.
+
+Escenario Actual:
+
+El cliente llama al restaurante y solicita una reserva de un menu que incluye la mesa, el mesero toma la reserva y la guarda en un documento, posteriormente llega el cliente al restaurante y el mesero confirma la reserva y le asigna el menu y la mesa al cliente.
+
+Pasos: 
+
+1. El cliente llega al restaurante y pregunta por el menu
+2. El mesero revisa las reservas y confirma disponibilidad
+3. El mesero notifica al cliente las opciones disponibles
+4. El cliente selecciona la opcion disponible
+5. El mesero ingresa la reserva
+6. El mesero notifica la reserva
+7. El cliente acepta la reserva y finaliza
+
+Escenario Objetivo:
+
+Se requiere un sistema de informacion que me permita controlar la globalidad del proceso, la fidelizacion de clientes, la administracion del producto, la transaccionabilidad del proceso y la administracion institucional.
+
+
+
